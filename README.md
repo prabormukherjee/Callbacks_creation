@@ -4,3 +4,4 @@ Here I created a custom callback in Keras in tf backend. That can be used in ML 
 
 To see the learning rate in cmd type `Get-Content .\log.txt -Wait` (windows) it will show the live progress of training with starting and ending log, along with training and val acc. Check the `log.txt` for details.
  
+ 
